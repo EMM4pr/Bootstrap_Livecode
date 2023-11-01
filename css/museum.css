@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Inconsolata:wght@700');
+
+#brandname-bold{
+    font-weight: 700;
+    font-family: Inconsolata;  
+
+}
+
+#sidebar {
+    height: calc(100vh - 20px);
+    font-family: Inconsolata;  
+}
+  
+.navbar {
+height: 50px;
+}
+
+#main-content h2{
+    margin-top: 25px;
+    font-family: Inconsolata;
+}
+.table{
+    font-family: Inconsolata;  
+}
